@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+.vs/Deadlock/v15/.suo
+*.db
+*.opendb
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.ipch
+*.tlog
+*.log
+*.idb
+*.pdb
+*.ilk
